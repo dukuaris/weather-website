@@ -1,5 +1,3 @@
-console.log("This is running!")
-
 const weatherForm = document.querySelector('form');
 const search = document.getElementById('location');
 const message = document.getElementById('message');
